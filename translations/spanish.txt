@@ -21,7 +21,7 @@ HASHING                              = "Hashing..."
 TITLE                                = "Título"
 ALBUM                                = "Álbum"
 ARTIST                               = "Artista"
-GENRE                                = "Generp"
+GENRE                                = "Genero"
 YEAR                                 = "Año"
 
 # Hex editor strings - Carácteres del editor hexadecimal
